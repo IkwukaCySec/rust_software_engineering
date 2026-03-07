@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Update Rust, when necessary.
+
+rustup update
