@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This command will open Rust Documentation web page
+
+rustup doc
