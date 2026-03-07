@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Install the latest Rust version on Linux
+
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
