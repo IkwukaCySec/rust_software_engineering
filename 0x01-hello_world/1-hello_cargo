@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Create project with Cargo
+
+cargo new hello_cargo
+cd hello_cargo
