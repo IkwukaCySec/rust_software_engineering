@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# To compile Rust programs, use 
+# `rustc <file_name>`
+
+rustc main.rs
+./main
+
+# OUTPUTS:
+Hello, world!
