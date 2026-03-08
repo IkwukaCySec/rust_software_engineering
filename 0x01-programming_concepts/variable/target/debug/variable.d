@@ -1,0 +1,1 @@
+/home/kali/CySec_repos/rust_software_engineering/0x01-programming_concepts/variable/target/debug/variable: /home/kali/CySec_repos/rust_software_engineering/0x01-programming_concepts/variable/src/main.rs
