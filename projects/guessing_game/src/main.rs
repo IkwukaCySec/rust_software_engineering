@@ -1,6 +1,6 @@
 use std::io;
 
-use rand::Ring;
+use rand::Rng;
 
 fn main() {
     println!("Guess the number!");
